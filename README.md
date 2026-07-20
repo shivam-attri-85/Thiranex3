@@ -16,3 +16,7 @@ A single-page TaskFlow to-do list application built with HTML, CSS, and vanilla 
 ## Run
 
 Open `TaskFlow.html` in a browser to use the app locally.
+
+## Deploy on Vercel
+
+This project includes `vercel.json`, which rewrites `/` to `TaskFlow.html` so the app loads without a 404 at the site root.
